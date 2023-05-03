@@ -16,5 +16,5 @@ function sum(a: number, b: number){
 
 var total = sum(10,20);
 let suma = (x: number, y: number) => {
-    return x * y;
+    return x + y;
 }
